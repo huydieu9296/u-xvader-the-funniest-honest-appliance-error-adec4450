@@ -1,0 +1,11 @@
+{
+  "name": "u-xvader-the-funniest-honest-appliance-error-adec4450",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "The funniest honest appliance error message a washing machine could show.",
+  "license": "MIT",
+  "scripts": {
+    "start": "node main.ts"
+  }
+}
